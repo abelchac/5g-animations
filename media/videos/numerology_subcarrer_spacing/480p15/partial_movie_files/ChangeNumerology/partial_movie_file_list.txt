@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/ChangeNumerology/1185818338_1047311353_3228386755.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/ChangeNumerology/624642324_4111271631_852476266.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/ChangeNumerology/624642324_3211906197_2180519680.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/ChangeNumerology/624642324_238257974_215737579.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/ChangeNumerology/624642324_3430902985_1670809218.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/ChangeNumerology/624642324_2817538285_1434529368.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/ChangeNumerology/624642324_1704852926_2724579272.mp4'

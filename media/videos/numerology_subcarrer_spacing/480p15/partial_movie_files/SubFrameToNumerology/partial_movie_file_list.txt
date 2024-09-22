@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/SubFrameToNumerology/1185818338_2300035484_840453358.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/SubFrameToNumerology/624642324_1079161644_840453358.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/SubFrameToNumerology/624642324_1921639994_840453358.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/SubFrameToNumerology/624642324_3023909765_840453358.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/SubFrameToNumerology/624642324_3180591578_840453358.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/SubFrameToNumerology/624642324_787025856_840453358.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/SubFrameToNumerology/624642324_1704852926_1808224049.mp4'

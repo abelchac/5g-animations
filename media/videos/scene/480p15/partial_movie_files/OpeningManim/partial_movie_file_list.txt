@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/scene/480p15/partial_movie_files/OpeningManim/1185818338_2153450458_2046674285.mp4'

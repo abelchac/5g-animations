@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/radio_frame/1185818338_123554531_1903039282.mp4'

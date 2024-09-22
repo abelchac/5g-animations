@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/symbol_to_numerology/1185818338_2133780060_901030521.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/symbol_to_numerology/624642324_2301697664_901030521.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/symbol_to_numerology/624642324_2601755989_901030521.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/symbol_to_numerology/624642324_3377709688_901030521.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/symbol_to_numerology/624642324_3774482957_901030521.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/symbol_to_numerology/624642324_824968759_901030521.mp4'

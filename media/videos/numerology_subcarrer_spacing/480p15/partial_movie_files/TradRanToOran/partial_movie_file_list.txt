@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/TradRanToOran/1185818338_3197935390_223132457.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/TradRanToOran/624642324_3028892855_2210831049.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/TradRanToOran/624642324_1688402228_1206168026.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/TradRanToOran/624642324_1141282389_2203666481.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/TradRanToOran/624642324_3793107623_1605971528.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/480p15/partial_movie_files/TradRanToOran/624642324_1141282389_1880405117.mp4'

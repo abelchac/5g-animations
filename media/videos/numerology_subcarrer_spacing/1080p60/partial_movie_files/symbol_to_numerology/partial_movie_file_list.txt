@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3529212410_2133780060_2726650949.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3890345977_2891735806.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_2301697664_4156339056.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3890345977_2914905243.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_2601755989_3684217011.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3890345977_2631480671.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3377709688_2551024852.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3890345977_506891940.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3774482957_3688649698.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3890345977_1990295559.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_824968759_2997527191.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/symbol_to_numerology/3040924799_3890345977_3574582021.mp4'

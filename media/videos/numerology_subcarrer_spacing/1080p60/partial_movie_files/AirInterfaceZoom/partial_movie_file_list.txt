@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/AirInterfaceZoom/1016836490_3467822883_3707747341.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/AirInterfaceZoom/2057597555_1632668528_1071941707.mp4'
+file 'file:C:/Users/abel/Documents/5G animations/media/videos/numerology_subcarrer_spacing/1080p60/partial_movie_files/AirInterfaceZoom/907817571_4042641242_104481421.mp4'
